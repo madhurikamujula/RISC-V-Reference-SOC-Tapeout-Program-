@@ -42,7 +42,7 @@ $ make
 
 $ sudo make install
 ```
-
+![Alt text](images/yosys.png)
 
 ### IVERILOG
 
@@ -51,7 +51,7 @@ $ sudo make install
 
 $ sudo apt-get install iverilog
  ```
-
+![Alt text](images/iverilog.png)
 
 ### GTKWAVE
  
@@ -60,3 +60,4 @@ $ sudo apt-get install iverilog
 
 $ sudo apt install gtkwave
  ```
+![Alt text](images/gtkwave.png)
